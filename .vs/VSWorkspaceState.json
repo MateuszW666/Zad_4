@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\Controllers",
+    "\\Data",
+    "\\Exceptions",
+    "\\Models",
+    "\\Properties",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Services\\WarehouseService.cs",
+  "PreviewInSolutionExplorer": false
+}
